@@ -1,3 +1,4 @@
+https://habr.com/ru/companies/ods/articles/324898/
 Python
 *
 TensorFlow
